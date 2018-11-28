@@ -15,10 +15,14 @@ class WSHandler(tornado.websocket.WebSocketHandler):
         print ('new connection')
       
     def on_message(self, message):
-        print ('message received:  %s' % message)
-        # Reverse Message and send it back
-        print ('sending back message: %s' % message[::-1])
-        self.write_message(message[::-1])
+        print ('message received!')#:  %s' % message)
+        m_byteArray = bytearray(message)
+        with open("received_image.jpg", "wb") as f:
+            f.write(m_byteArray)
+        f.close()
+        # Interroga Modello TF e prendi predictions
+        # Manda indietro predicions (json)
+        # self.write_message(predictions)
  
     def on_close(self):
         print ('connection closed')
