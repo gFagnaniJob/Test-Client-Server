@@ -1,0 +1,11 @@
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\bin\Debug\netcoreapp2.1\client.deps.json
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\bin\Debug\netcoreapp2.1\client.runtimeconfig.json
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\bin\Debug\netcoreapp2.1\client.runtimeconfig.dev.json
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\bin\Debug\netcoreapp2.1\client.dll
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\bin\Debug\netcoreapp2.1\client.pdb
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\obj\Debug\netcoreapp2.1\client.csprojAssemblyReference.cache
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\obj\Debug\netcoreapp2.1\client.csproj.CoreCompileInputs.cache
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\obj\Debug\netcoreapp2.1\client.AssemblyInfoInputs.cache
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\obj\Debug\netcoreapp2.1\client.AssemblyInfo.cs
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\obj\Debug\netcoreapp2.1\client.dll
+C:\Users\giuseppef\Desktop\Test CLIENT-SERVER\Client\obj\Debug\netcoreapp2.1\client.pdb
